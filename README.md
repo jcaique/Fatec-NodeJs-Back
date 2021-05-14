@@ -3,7 +3,7 @@
 
 Projeto Backend em NodeJS integrado ao MongoDB.
 
-- Clone o projeto (git clone https://github.com/ricardoleme/backend.git)
+- Clone o projeto (git clone https://github.com/ricardoleme/backend.git) + (npm i)
 - Renomeie o arquivo .env-exemplo para .env e informe a string de conexão do MongoDB
 - Inicialize o servidor na porta 4000
 - Aponte o navegador em http://localhost:4000
